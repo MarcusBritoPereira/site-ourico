@@ -1,4 +1,4 @@
-name: Deploy site estático via FTP (Hostinger)
+name: Deploy site estático via FTP
 
 on:
   push:
