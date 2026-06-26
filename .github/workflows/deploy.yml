@@ -22,7 +22,7 @@ jobs:
           protocol: ftps
           port: 21
           local-dir: ./
-          server-dir: public_html/
+          server-dir: domains/ouricoedu.com.br/public_html/
           timeout: 60000
           exclude: |
             **/.git*
